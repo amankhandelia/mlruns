@@ -1,0 +1,15 @@
+artifact_uri: file:///home/khandelia1000/premchand/mlruns/818743516172482436/90667c6b5c864bafb097e3b42dde7d65/artifacts
+end_time: 1680833002211
+entry_point_name: ''
+experiment_id: '818743516172482436'
+lifecycle_stage: active
+run_id: 90667c6b5c864bafb097e3b42dde7d65
+run_name: likeable-sow-821
+run_uuid: 90667c6b5c864bafb097e3b42dde7d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680726494511
+status: 3
+tags: []
+user_id: khandelia1000
